@@ -5,6 +5,7 @@ Supports almost every features that Instagram app has!
 
 -----
 # This project is not maintained anymore. [#233](https://github.com/ramtinak/InstagramApiSharp/issues/233)
+Its maintaned by me
 -----
 | Target | Branch | Version | Download link | Total downloads |
 | ------ | ------ | ------ | ------ | ------ |
